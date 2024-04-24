@@ -62,7 +62,7 @@
   <a href="https://github.com/Accoows" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/Accoow" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" target="_blank"></a>
   <a href="https://www.threads.net/@accoow"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" target="_blank"></a>  
-  <a href="https://www.google.com/search?q=My+discord+is+%3A+Accoow"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/Accoows/Accoows/blob/main/img/discord.png"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
 
 <!-----FOOTER------>
