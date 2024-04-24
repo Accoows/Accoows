@@ -1,16 +1,12 @@
-<div align="center">
-  <h1><img height="30" src="https://raw.githubusercontent.com/Accoows/Accoows/main/img/hi.gif" align="right" display="inline-block" alt="GIF" > Hey ! Nice to see you.</h1>
-</div>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=200&color=black&text=Hey%20!%20Nice%20to%20see%20you.&textBg=false&fontColor=E6DAC6&fontAlign=50&fontAlignY=50&fontSize=35&desc=I'm%20Accoow&descAlign=50&descSize=32&descAlignY=70">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=200&color=black&text=Hey%20!%20Nice%20to%20see%20you.&textBg=false&fontColor=E6DAC6&fontAlign=50&fontAlignY=50&fontSize=35&desc=I'm%20Accoow&descAlign=50&descSize=32&descAlignY=75">
 </p>
 
 <p>I'm a passionate computer science and cybersecurity student from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>France</b>. <br> Currently based in France, I'm studying computer science and have a passion for new technologies.</p>
 
 <hr>
 
-<div align = "left">
+<div align = "center">
 <img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" align="right" width="240px" display="inline-block" alt="GIF">
 </div>
 
@@ -52,18 +48,13 @@
   </a>
 </p>
 
+<h3 align="center">C O N T A C T</h3>
+
+<div align="center"> 
+  <a href="https://github.com/Accoows" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/Accoow" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" target="_blank"></a>
+  <a href="https://www.threads.net/@accoow"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" target="_blank"></a>  
+  <a href="My discord is : Accoow"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E6DAC6&height=120&section=footer"/>
-<!--
-**Accoows/Accoows** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
