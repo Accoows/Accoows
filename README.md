@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><img height="30" src="https://raw.githubusercontent.com/Accoows/Accoows/main/hi.gif"> Hey ! Nice to see you.</h1>
+  <h1><img height="30" src="https://raw.githubusercontent.com/Accoows/Accoows/main/img/hi.gif"> Hey ! Nice to see you.</h1>
 </div>
 
 
@@ -23,7 +23,7 @@
 <hr>
 
 
-## Technologies & Tools
+## <img height="30" src="https://raw.githubusercontent.com/Accoows/Accoows/main/img/icon-code.png"> Technologies & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -32,7 +32,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,idea,pycharm,py,java,mysql,arduino" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,py,java,mysql,arduino" />
   </a>
 </p>
 
@@ -49,7 +49,7 @@
   </a>
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E6DAC6&height=120&section=footer"/>
 <!--
 **Accoows/Accoows** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
