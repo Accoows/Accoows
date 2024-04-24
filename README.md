@@ -25,10 +25,19 @@
 
 ## Technologies & Tools
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,apple,linux,ubuntu,kali,powershell,bash" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,idea,pycharm,py,java,mysql,arduino" />
+  </a>
+</p>
 
 
-
-## GitHub Stats
+## 📈 GitHub Stats
 <br />
 
 <p align="center">
