@@ -1,9 +1,12 @@
 <div align="center">
-  <h1><img height="30" src="https://raw.githubusercontent.com/Accoows/Accoows/main/img/hi.gif"> Hey ! Nice to see you.</h1>
+  <h1><img height="30" src="https://raw.githubusercontent.com/Accoows/Accoows/main/img/hi.gif" align="right" display="inline-block" alt="GIF" > Hey ! Nice to see you.</h1>
 </div>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=200&color=black&text=Hey%20!%20Nice%20to%20see%20you.&textBg=false&fontColor=E6DAC6&fontAlign=50&fontAlignY=50&fontSize=35&desc=I'm%20Accoow&descAlign=50&descSize=32&descAlignY=70">
+</p>
 
-<p>I'm Accoow, a passionate computer science and cybersecurity student from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>France</b>. <br> Currently based in France, I'm studying computer science and have a passion for new technologies.</p>
+<p>I'm a passionate computer science and cybersecurity student from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>France</b>. <br> Currently based in France, I'm studying computer science and have a passion for new technologies.</p>
 
 <hr>
 
