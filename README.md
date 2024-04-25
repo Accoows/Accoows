@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=200&color=black&text=Hey%20!%20Nice%20to%20see%20you.&textBg=false&fontColor=E6DAC6&fontAlign=50&fontAlignY=50&fontSize=35&desc=I'm%20Accoow&descAlign=50&descSize=32&descAlignY=75">
 </p>
 
-<h4>I'm a passionate computer science and cybersecurity student from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>France</b>. <br> Currently based in France, I'm studying computer science and have a passion for new technologies.</h4>
+<h3>I'm a passionate computer science and cybersecurity student from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>France</b>. <br> Currently based in France, I'm studying computer science and have a passion for new technologies.</h3>
 
 <hr>
 
