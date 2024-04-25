@@ -50,9 +50,11 @@
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Accoows&hide=contribs,prs&theme=ayu-mirage&rank_icon=github" />
   </a>
   <a href="https://github.com/Accoows">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Accoows&theme=ayu-mirage&layout=compact" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Accoows&theme=ayu-mirage&hide_progress=true" />
   </a>
 </p>
+
+<!--&hide_progress=true--->
 
 <!-----CONTACT------>
 
