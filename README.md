@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,apple,linux,ubuntu,kali,powershell,bash" />
+    <img src="https://skillicons.dev/icons?i=windows,apple,linux,ubuntu,kali,powershell" />
   </a>
 </p>
 <p align="center">
