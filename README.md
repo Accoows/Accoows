@@ -18,10 +18,7 @@
 - 💡 I'm currently working on my skills
   
 - 🔭 Ariane / SpaceX / Nasa
-- ✨ Head in the stars
-- 🚗 & Behind the wheel
 - 🎮 Gaming & 🎬 Anime
-- 😄 Pronouns: Any really
 
 <hr>
 
