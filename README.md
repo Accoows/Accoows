@@ -19,6 +19,8 @@
   
 - 🔭 Ariane / SpaceX / Nasa
 - 🎮 Gaming & 🎬 Anime
+- ✨ Head in the stars
+- 🚗 & Behind the wheel
 
 <hr>
 
