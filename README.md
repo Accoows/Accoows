@@ -15,12 +15,12 @@
 </div>
 
 - ⌨️ I’m currently learning **Java/Python/OSINT...**
+<br><br><br>
 - 💡 I'm currently working on my skills
-  
+<br><br><br>
 - 🔭 Ariane / SpaceX / Nasa
+<br><br><br>
 - 🎮 Gaming & 🎬 Anime
-- ✨ Head in the stars
-- 🚗 & Behind the wheel
 
 <hr>
 
