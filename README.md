@@ -1,21 +1,19 @@
 <!-----HEADER------>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=200&color=black&text=Hey%20!%20Nice%20to%20see%20you.&textBg=false&fontColor=E6DAC6&fontAlign=50&fontAlignY=50&fontSize=35&desc=I'm%20Accoow&descAlign=50&descSize=32&descAlignY=75">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&color=black&text=Hi%20!%20I'm%20Accoow&textBg=false&fontColor=E6DAC6&fontAlign=50&fontAlignY=50&fontSize=40">
 </p>
 
-<h3>I'm a passionate computer science and cybersecurity student from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>France</b>. <br> Currently based in France, I'm studying computer science and have a passion for new technologies.</h3>
+<h3>I'm a passionate computer science and cybersecurity student from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>France</b>. <br> I'm studying computer science and have a passion for new technologies.</h3>
 
 <hr>
 
 <!-----MY HOBBIES------>
 
 <div align = "center">
-<img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" align="right" width="240px" display="inline-block" alt="GIF">
+<img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" align="right" width="150px" style display="inline-block" alt="GIF">
 </div>
 
-- ⌨️ I’m currently learning **Java/Python/OSINT...**
-<br><br><br>
 - 💡 I'm currently working on my skills
 <br><br><br>
 - 🔭 Ariane / SpaceX / Nasa
