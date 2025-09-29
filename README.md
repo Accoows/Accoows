@@ -53,17 +53,6 @@
 
 <!--&hide_progress=true--->
 
-<!-----CONTACT------>
-
-<h3 align="center">C O N T A C T</h3>
-
-<div align="center"> 
-  <a href="https://github.com/Accoows" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/Accoow" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" target="_blank"></a>
-  <a href="https://www.threads.net/@accoow"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" target="_blank"></a>  
-  <a href="https://github.com/Accoows/Accoows/blob/main/img/discord.png"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-</div>
-
 <!-----FOOTER------>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E6DAC6&height=120&section=footer"/>
